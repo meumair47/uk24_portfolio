@@ -15,7 +15,7 @@ const Home = () => {
           track record of building quality, scalable and efficient web products.
           With my expertise in front-end and back-end technologies, I seamlessly
           integrate user-friendly interfaces with powerful server-side
-          functionality. He is an expert in many programming languages ​​and
+          functionality. i'm expert in many programming languages ​​and
           frameworks, including HTML, CSS, JavaScript, React, Node.js and many
           other information technologies.
         </p>
