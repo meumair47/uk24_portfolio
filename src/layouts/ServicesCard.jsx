@@ -13,5 +13,3 @@ const ServicesCard = (props) => {
 };
 
 export default ServicesCard;
-
-export default ServicesCard
