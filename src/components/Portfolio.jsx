@@ -1,10 +1,10 @@
 import React from "react";
-import img1 from "../assets/img/a.jpg";
-import img2 from "../assets/img/b.jpg";
-import img3 from "../assets/img/c.jpg";
-import img4 from "../assets/img/d.jpg";
-import img5 from "../assets/img/e.jpg";
-// import img6 from "../assets/img/1.png";
+import img1 from "../assets/img/home.png";
+import img2 from "../assets/img/homeCode.png";
+import img3 from "../assets/img/service.png";
+import img4 from "../assets/img/footer.png";
+import img5 from "../assets/img/about.png";
+import img6 from "../assets/img/contact.png";
 
 const Portfolio = () => {
   return (
@@ -48,6 +48,13 @@ const Portfolio = () => {
           <img
             className=" transform transition-transform duration-300 hover:scale-110 rounded-md cursor-pointer"
             src={img5}
+            alt="img"
+          />
+        </div>
+        <div className=" w-full lg:w-1/4">
+          <img
+            className=" transform transition-transform duration-300 hover:scale-110 rounded-md cursor-pointer"
+            src={img6}
             alt="img"
           />
         </div>
