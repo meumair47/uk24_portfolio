@@ -23,9 +23,9 @@ const Footer = () => {
           />
         </a>
         <a
-          href="https://www.linkedin.com/in/%E0%BC%BAum%CD%A5%E0%B8%AAi%CD%A3r%CD%AB-k%D1%92%E0%B8%AA%C5%88%E0%BC%BB-53964126b/"
+          href="https://www.linkedin.com/in/muhammad-umair-53964126b/"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="Linkedin"
         >
           <FaLinkedin
             size={32}
